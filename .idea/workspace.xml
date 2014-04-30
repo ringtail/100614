@@ -2,15 +2,93 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3d970b2-8f51-46cf-93bf-58f83614f7bc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/100614.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_json.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storyjs-embed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fancybox_sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fancybox_sprite@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/themes/timeline-dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/themes/timeline-dark@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/themes/timeline-texture.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/timeline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/timeline@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/themes/font/AbrilFatface-Average.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/themes/font/Arvo-PTSans.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/themes/font/Bevan-PotanoSans.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/themes/font/BreeSerif-OpenSans.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/themes/font/DroidSerif-DroidSans.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/themes/font/Georgia-Helvetica.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/themes/font/Lekton-Molengo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/themes/font/Lora-Istok.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/themes/font/Merriweather-NewsCycle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/themes/font/NewsCycle-Merriweather.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/themes/font/NixieOne-Ledger.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/themes/font/PT.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/themes/font/PTSerif-PTSans.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/themes/font/Pacifico-Arimo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/themes/font/PlayfairDisplay-Muli.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/themes/font/PoiretOne-Molengo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/themes/font/Rancho-Gudea.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/themes/font/SansitaOne-Kameron.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/cz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/themes/dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/en-24hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/fo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/hy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/iw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/lb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/ne.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/rm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/si.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/sr-cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/storyjs-embed-cdn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/storyjs-embed-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/storyjs-embed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/ta.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/te.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/timeline-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/timeline.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/timeline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/tl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/locale/zh-tw.js" />
     </list>
     <ignored path="100614.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,10 +111,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="42" selection-start="1913" selection-end="1913" vertical-scroll-proportion="0.7711864" vertical-offset="190" max-vertical-offset="780">
+            <state line="43" column="42" selection-start="1913" selection-end="1913" vertical-scroll-proportion="-18.958334" vertical-offset="190" max-vertical-offset="780">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PT.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/themes/font/PT.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="601">
               <folding />
             </state>
           </provider>
@@ -172,14 +259,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="31" width="1260" height="760" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24958813" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24958813" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -215,7 +302,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="42" selection-start="1913" selection-end="1913" vertical-scroll-proportion="0.7711864" vertical-offset="190" max-vertical-offset="780">
+        <state line="43" column="42" selection-start="1913" selection-end="1913" vertical-scroll-proportion="-18.958334" vertical-offset="190" max-vertical-offset="780">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/themes/font/PT.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="601">
           <folding />
         </state>
       </provider>
